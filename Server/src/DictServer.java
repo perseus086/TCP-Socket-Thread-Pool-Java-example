@@ -1,5 +1,5 @@
 /**
- * @author Paul Hinojosa, paulhl, 601499
+ * @author Paul Hinojosa, perseus086
  */
 
 public class DictServer {
